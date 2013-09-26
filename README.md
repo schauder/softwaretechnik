@@ -1,4 +1,4 @@
-softwaretechnik
-===============
+Software Technik
+================
 
-Das Script zur Vorlesung Software Technik and der Ostfalia
+[Die Folien zur ersten Vorlesung](http://slid.es/jensschauder/softwaretechnik-lesson1).
