@@ -1,7 +1,11 @@
 Software Technik
 ================
 
-[Die Folien zur ersten Vorlesung](http://slid.es/jensschauder/softwaretechnik-lesson1).
+=== Folien ===
+
+[ersten Vorlesung (Einführung)](http://slid.es/jensschauder/softwaretechnik-lesson1).
+
+[zweite Vorlesung (TDD & Code Katas)](http://slid.es/jensschauder/softwaretechnik-lesson2).
 
 Ergänzungen zu den Folien können im [Wiki](https://github.com/schauder/softwaretechnik/wiki) hinterlegt werden
 
