@@ -8,6 +8,8 @@ Folien
 
 [zweite Vorlesung (TDD & Code Katas)](http://slid.es/jensschauder/softwaretechnik-lesson2).
 
+[dritte Vorlesung (Versionsverwaltung)](https://slid.es/jensschauder/softwaretechnik-lesson-3).
+
 Sonstiges
 ---------
 
