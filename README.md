@@ -4,11 +4,33 @@ Software Technik
 Folien
 ------
 
-[ersten Vorlesung (Einführung)](http://slid.es/jensschauder/softwaretechnik-lesson1).
+1. [Einführung)](http://slid.es/jensschauder/softwaretechnik-lesson1).
 
-[zweite Vorlesung (TDD & Code Katas)](http://slid.es/jensschauder/softwaretechnik-lesson2).
+1. [TDD & Code Katas)](http://slid.es/jensschauder/softwaretechnik-lesson2).
 
-[dritte Vorlesung (Versionsverwaltung)](https://slid.es/jensschauder/softwaretechnik-lesson-3).
+1. [Versionsverwaltung)](https://slid.es/jensschauder/softwaretechnik-lesson-3).
+
+1. [Requirements)](http://slid.es/jensschauder/softwaretechnik-lesson-4).
+
+1. Architektur
+
+1. Testen
+
+1. Architektur
+
+1. Clean Code
+
+1. Continuous Integration / Continuous Deployment
+
+1. Vorgehensmodelle
+
+1. Probe Klausur
+
+1. Testen for real
+
+1. Soft Skills
+
+1. Wrap up
 
 Sonstiges
 ---------
