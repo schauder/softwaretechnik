@@ -4,13 +4,13 @@ Software Technik
 Folien
 ------
 
-1. [Einführung)](http://slid.es/jensschauder/softwaretechnik-lesson1).
+1. [Einführung](http://slid.es/jensschauder/softwaretechnik-lesson1).
 
-1. [TDD & Code Katas)](http://slid.es/jensschauder/softwaretechnik-lesson2).
+1. [TDD & Code Katas](http://slid.es/jensschauder/softwaretechnik-lesson2).
 
-1. [Versionsverwaltung)](https://slid.es/jensschauder/softwaretechnik-lesson-3).
+1. [Versionsverwaltung](https://slid.es/jensschauder/softwaretechnik-lesson-3).
 
-1. [Requirements)](http://slid.es/jensschauder/softwaretechnik-lesson-4).
+1. [Requirements](http://slid.es/jensschauder/softwaretechnik-lesson-4).
 
 1. Architektur
 
