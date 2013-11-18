@@ -12,11 +12,11 @@ Folien
 
 1. [Requirements](http://slid.es/jensschauder/softwaretechnik-lesson-4).
 
-1. Architektur
+1. [Architektur](http://slid.es/jensschauder/softwaretechnik-lesson-5)
 
 1. Testen
 
-1. Architektur
+1. [Architektur](http://slid.es/jensschauder/softwaretechnik-lesson-7)
 
 1. Clean Code
 
