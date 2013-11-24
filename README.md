@@ -18,7 +18,7 @@ Folien
 
 1. [Architektur](http://slid.es/jensschauder/softwaretechnik-lesson-7)
 
-1. Clean Code
+1. [Clean Code](CleanCode_01_Intro.pptx)
 
 1. Continuous Integration / Continuous Deployment
 
