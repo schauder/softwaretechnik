@@ -18,6 +18,8 @@ Folien
 
 1. [Architektur](http://slid.es/jensschauder/softwaretechnik-lesson-7)
 
+[Review einer Aufgabenlösung](https://github.com/schauder/CDVerwaltungsTool/commit/d3679c4481d6707404519795d7b40831ac818cec)
+
 1. [Clean Code](CleanCode_01_Intro.pptx?raw=true)
 
 1. Continuous Integration / Continuous Deployment
