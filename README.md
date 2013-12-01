@@ -14,7 +14,7 @@ Folien
 
 1. [Architektur](http://slid.es/jensschauder/softwaretechnik-lesson-5)
 
-1. [Testen](testen/Vortrag%20Ostfalia%20Basics Testen.ppt?raw=true) und [weitere Unterlagen zu der Vorlens](testen/)
+1. [Testen](testen/Vortrag%20Ostfalia%20Basics Testen.ppt?raw=true) und [weitere Unterlagen zu der Vorlehsung](testen/)
 
 1. [Architektur](http://slid.es/jensschauder/softwaretechnik-lesson-7)
 
