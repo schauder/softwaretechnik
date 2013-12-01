@@ -18,7 +18,12 @@ Folien
 
 1. [Architektur](http://slid.es/jensschauder/softwaretechnik-lesson-7)
 
-1. [Clean Code](CleanCode_01_Intro.pptx)
+    [Review einer Aufgabenlösung](https://github.com/schauder/CDVerwaltungsTool/commit/d3679c4481d6707404519795d7b40831ac818cec)
+
+1. [Clean Code](CleanCode_01_Intro.pptx?raw=true)
+ 
+    Aufgabe: Die in der Vorlesung diskutierte Klasse refactoren, bis sie so sauber wie irgend möglich ist. https://github.com/jbrains/trivia/blob/master/java/src/main/java/com/adaptionsoft/games/uglytrivia/Game.java
+    Die ersten Lösungen, die ich als github repository oder Zip File bekomme werde ich reviewen.
 
 1. Continuous Integration / Continuous Deployment
 
