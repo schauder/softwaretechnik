@@ -25,13 +25,13 @@ Folien
     Aufgabe: Die in der Vorlesung diskutierte Klasse refactoren, bis sie so sauber wie irgend möglich ist. https://github.com/jbrains/trivia/blob/master/java/src/main/java/com/adaptionsoft/games/uglytrivia/Game.java
     Die ersten Lösungen, die ich als github repository oder Zip File bekomme werde ich reviewen.
 
-1. [Continuous Integration / Continuous Deployment](https://slid.es/jensschauder/softwaretechnik-lesson-9)
+1. Wegen Krankheit entfallen
 
-1. Vorgehensmodelle
+1. [Continuous Integration / Continuous Deployment](https://slid.es/jensschauder/softwaretechnik-lesson-9)
 
 1. Probe Klausur
 
-1. Testen for real
+1. Vorgehensmodelle
 
 1. Soft Skills
 
