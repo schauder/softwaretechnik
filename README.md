@@ -27,7 +27,7 @@ Folien
 
 1. [Continuous Integration / Continuous Deployment](https://slid.es/jensschauder/softwaretechnik-lesson-9)
 
-1. [Probe Klausur](http://bit.ly/IZ7Jto) 
+1. [Probe Klausur](http://bit.ly/IZ7Jto) / [Musterlösung](https://docs.google.com/document/d/1L3fKC8KWsObk_VNDGGkjGTv_qc9CFAlBpgLcCrhQt3c/edit?usp=sharing) 
 
 1. [Scrum](http://www.scrumprimer.org/)
 
